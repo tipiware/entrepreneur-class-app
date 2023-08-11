@@ -1,3 +1,7 @@
+# entrepreneur-class-app
+
+This is a single page education website that serve for the purpose of promoting entrepreneur training. This application was developed using vite, react, tailwindcss, typescript, tailwindcss and redux. 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
